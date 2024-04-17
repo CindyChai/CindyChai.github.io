@@ -1830,7 +1830,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .ajax-page-wrapper {
-  max-width: 2200px;
+  max-width: 3000px;
   margin: 0 auto;
   padding: 20px 60px 50px;
 }
