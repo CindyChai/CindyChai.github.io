@@ -1237,7 +1237,7 @@ textarea.form-control, textarea.form-control:focus {
   font-size: 13px;
   font-weight: 300;
   line-height: 1.45em;
-  color: #a5a6a7;
+  color: #474747;
 }
 
 .timeline-second-style .timeline-item:last-child .right-part {
@@ -1895,7 +1895,7 @@ textarea.form-control, textarea.form-control:focus {
   display: block;
   position: relative;
   padding: 20px 25px 25px;
-  background-color: #fcfcfc;
+  background-color: #F0F2F8;
 }
 
 .ajax-page-wrapper .block-title h3 {
