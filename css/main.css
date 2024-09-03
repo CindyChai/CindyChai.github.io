@@ -1315,11 +1315,11 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-2 .skill-percentage {
-  width: 75%;
+  width: 90%;
 }
 
 .skills-second-style .skill-container.skill-3 .skill-percentage {
-  width: 60%;
+  width: 75%;
 }
 
 .skills-second-style .skill-container.skill-4 .skill-percentage {
@@ -1327,11 +1327,11 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-5 .skill-percentage {
-  width: 65%;
+  width: 75%;
 }
 
 .skills-second-style .skill-container.skill-6 .skill-percentage {
-  width: 0%;
+  width: 65%;
 }
 
 
